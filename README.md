@@ -14,7 +14,7 @@ CVPR 2023
 ## Introduction
 
 ### FCMI framework
-<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Figure2.pdf"  width="860"  />
+<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Fig2.png"  width="740"  />
 
 ## Requirements
 
@@ -70,7 +70,7 @@ python main.py --dataset dataset --seed seed --resume PathToYourModel
 
 ### Experiment Results:
 <img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Tab1.png"  width="740"  />
-<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/FigVisual.png"  width="740"  />
+<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/FigVisual.png"  width="600"  />
 
 
 ## Citation
