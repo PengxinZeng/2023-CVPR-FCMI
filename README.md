@@ -55,6 +55,7 @@ python main.py --dataset HAR --seed 9116
 # MNIST-USPS  
 python main.py --dataset MNISTUSPS --seed 9116  
 ```
+
 ## Model Zoo
 The pre-trained models are available here:
 | Dataset | Model | Results |
@@ -69,7 +70,7 @@ Download the models, then:
 python main.py --dataset dataset --seed seed --resume PathToYourModel
 ```
 
-### Experiment Results:
+## Experiment Results:
 <img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Tab1.png"  width="740"  />
 <img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/FigVisual.png"  width="600"  />
 
