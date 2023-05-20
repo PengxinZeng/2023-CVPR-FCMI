@@ -63,6 +63,7 @@ The pre-trained models are available here:
 | Office-31 | [Model ](https://github.com/PengxinZeng/2023-CVPR-FCMI) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainOffice.txt) |
 | MTFL | [Model ](https://github.com/PengxinZeng/2023-CVPR-FCMI) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainMTFL.txt) |
 | HAR | [Model ](https://github.com/PengxinZeng/2023-CVPR-FCMI) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainHAR.txt) |
+
 Download the models, then:
 ```
 python main.py --dataset dataset --seed seed --resume PathToYourModel
