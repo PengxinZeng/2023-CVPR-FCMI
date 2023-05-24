@@ -1,3 +1,8 @@
+### News
+I am planning to pursue the Ph.D. degree in 2024 Fall. If we can have some collaborations to work on some interesting problems, feel free to drop me an email ([zengpengxin.gm@gmail.com](mailto:zengpengxin.gm@gmail.com)). 
+
+ [[CV]](https://github.com/PengxinZeng/PengxinZeng.github.io/blob/master/CV_Pengxin_SichuanUniversity.pdf)  [[Homepage]](https://pengxinzeng.github.io/)  [[Github]](https://github.com/PengxinZeng?tab=repositories)
+
 
 <div align="center">
 
