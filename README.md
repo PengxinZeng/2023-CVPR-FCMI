@@ -83,14 +83,14 @@ python main.py --dataset dataset --seed seed --resume PathToYourModel
 ## Citation
 
 If FCMI is useful for your research, please cite the following paper:
+
 ```
-@inproceedings{
-anonymous2023deep,
-title={Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric},
-author={Anonymous},
-booktitle={Conference on Computer Vision and Pattern Recognition 2023},
-year={2023},
-url={https://openreview.net/forum?id=A-80aauq5p}
+@inproceedings{zeng2023deep,
+  title={Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric},
+  author={Zeng, Pengxin and Li, Yunfan and Hu, Peng and Peng, Dezhong and Lv, Jiancheng and Peng, Xi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={23986--23995},
+  year={2023}
 }
 ```
 
