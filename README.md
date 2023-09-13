@@ -69,6 +69,7 @@ The pre-trained models are available here:
 | Office-31 | [Model](https://drive.google.com/drive/folders/1pfw4YCGkYP1XupGw-GNBip_dNaqBCODl?usp=share_link) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainOffice.txt) |
 | MTFL | [Model](https://drive.google.com/drive/folders/1pfw4YCGkYP1XupGw-GNBip_dNaqBCODl?usp=share_link) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainMTFL.txt) |
 | HAR | [Model](https://drive.google.com/drive/folders/1pfw4YCGkYP1XupGw-GNBip_dNaqBCODl?usp=share_link) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainHAR.txt) |
+| MNIST-USPS | [Model](https://drive.google.com/drive/folders/1pfw4YCGkYP1XupGw-GNBip_dNaqBCODl?usp=share_link) | [Results](https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/TrainRevMnist.txt) |
 
 Download the models, then:
 ```
